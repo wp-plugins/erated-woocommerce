@@ -79,21 +79,3 @@ eRated has proven for thousands of sellers that an enhanced reputation attracts 
 7. This screen shot description corresponds to screenshot_7_customize_widget.png. Here you can adjust the colors of the widget and decide what it will look like to fit your site perfectly. You can also enter a list of urls that you would like the widget to not be presented on.
 8. This screen shot description corresponds to screenshot_8_publish_widget.png. When all of the widget configuring is done, you can publish your widget, which will take it online for your site viewers to admire.
 9. This screen shot description corresponds to screenshot_9_site_view.png. This is what the viewers will finally see on your site/store, once the widget is published.
-
-
-
-
-
-
-
-
-
-
-1. This screen shot description corresponds to screenshot_1_sign_in.png. After activating the plugin there will appear a 'Reputation' tab in the admin sidebar. Clicking it will take you to this sign in screen where a you can either log in with your existing eRated account, or create a new user using one of the social network logins.
-2. This screen shot description corresponds to screenshot_2_pricing.png. After logging in or being logged into eRated and clicking the reputation tab, you will see our pricing page in which you can choose to start the free trial.
-3. This screen shot description corresponds to screenshot_3_start_wizard.png. This screen will show a video and some guiidelines of the steps necessary to complete the wordpress plugin integration with the eRated widget.
-4. This screen shot description corresponds to screenshot_4_connect_platforms.png. This is the page to connect all the online platforms the you are involved in. This allows eRated to collect your reputation from these marketplaces to later be able to show on the widget, that will be embedded on your wordpress site.
-5. This screen shot description corresponds to screenshot_5_widget_settings.png. Here is where the user chooses to display the different information presented on the widget. You can adjust your name and location as well as selecting which marketplaces to show out of the ones you connected before (in the previous tab).
-6. This screen shot description corresponds to screenshot_6_customize_widget.png. Here you can adjust the colors of the widget and decide what it will look like to fit your site perfectly. You can also enter a list of urls that you would like the widget to not be presented on.
-7. This screen shot description corresponds to screenshot_7_publish_widget.png. When all of the widget configuring is done, you can publish your widget, which will take it online for your site viewers to admire.
-8. This screen shot description corresponds to screenshot_8_site_view.png. This is what the viewers will finally see, once the widget is published.
