@@ -14,11 +14,59 @@ function add_erated_menu() {
 }
 
 function erated_admin_page_function() {
-    $erated_domain =  'http://app.erated.co';
+    // $erated_domain =  'https://app.erated.co';
+    $erated_domain =  'http://localhost:3000';
     $erated_secret = md5(site_url());
-    $iframe_url = $erated_domain.'/premium/wordpress/'.$erated_secret.'#v/start';
+    $site_url = urlencode(site_url());
+    $iframe_url = $erated_domain.'/premium/wordpress/'.$erated_secret.'/'.$site_url.'#v/start';
     ?>
-      <br/><br/><br/>
+    <style type="text/css">
+    .wrap{
+      background-color: red;
+    }
+    #erated-bg{
+      width: 99%;
+    }
+    #settings_button{
+      position: absolute;
+      top: 50%;
+      background: transparent;
+      border: none !important;
+      font-size:0;
+    }
+    .button_wrapper{
+      display: table;
+      margin-left: 38%;
+    }
+    #erated_text_div{
+      color:white;
+      position:absolute;
+      width: 100%;
+      font-size: 150%;
+      top: 20%;
+      text-align: center;
+    }
+    </style>
+    <script type="text/javascript">
+      function hover(element) {
+        element.setAttribute('src', '<?php echo plugin_dir_url(__FILE__) . 'images/btn.png';?>');
+      }
+      function unhover(element) {
+        element.setAttribute('src', '<?php echo plugin_dir_url(__FILE__) . 'images/btnpress.png';?>');
+      }
+    </script>
+    <img id="erated-bg" src="<?php echo plugin_dir_url(__FILE__) . 'images/bg.jpg';?>">
+    <div id="erated_text_div">
+      <h1>Unlock your reputation and build trust with every transaction.</h1><br/><br/>
+      eRated imports your ratings, reviews and reputation from all your<br/><br/>
+      marketplace accounts and social media platforms directly to your store.<br/><br/>
+      Customize your plugin to suit your store and watch your sales increase by up to 30%.<br/><br/>
+      Become a trusted seller and join eRated for free today.
+    </div>
+    <div class="button_wrapper">
+      <a href="<?php echo $iframe_url ?>" target="_blank"><button id="settings_button" type="submit"><img id="settings_button_image" src="<?php echo plugin_dir_url(__FILE__) . 'images/btnpress.png';?>" onmouseover="hover(this);" onmouseout="unhover(this);"></button></a>
+    </div>
+    <br/>
       <a href="<?php echo $iframe_url ?>" target="_blank">Go to eRated configuration screen.</a>
     <?php
 }
