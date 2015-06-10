@@ -14,8 +14,7 @@ function add_erated_menu() {
 }
 
 function erated_admin_page_function() {
-    // $erated_domain =  'https://app.erated.co';
-    $erated_domain =  'http://localhost:3000';
+    $erated_domain =  'https://app.erated.co';
     $erated_secret = md5(site_url());
     $site_url = urlencode(site_url());
     $iframe_url = $erated_domain.'/premium/wordpress/'.$erated_secret.'/'.$site_url.'#v/start';
