@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== eRated ===
 Contributors: eRated
 Tags: eRated, reputation, rating, reviews, own your reputation, store, ecommerce, ebay, score, amazon, shared economy
 Requires at least: 2.0
