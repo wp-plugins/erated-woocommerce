@@ -32,8 +32,8 @@ Now eRated.co adds power features only available to wordpress.com users includin
 * Beautiful and simple design.
 
 == Installation ==
-1A. The conventional way is to install it from the admin's 'Plugins' tab by going to 'Add New' and searching for 'erated' in the search field. Click 'Install' and after success, click 'Activate'.
-1B. The other way is to download the eRated plugin and unzip it into the `/wp-content/plugins/` directory in your wordpress project. Then go to your admin's 'Installed Plugins' tab, find eRated, and click 'Activate'.
+1. A. The conventional way is to install it from the admin's 'Plugins' tab by going to 'Add New' and searching for 'erated' in the search field. Click 'Install' and after success, click 'Activate'.
+1. B. The other way is to download the eRated plugin and unzip it into the `/wp-content/plugins/` directory in your wordpress project. Then go to your admin's 'Installed Plugins' tab, find eRated, and click 'Activate'.
 3. After activating the plugin there will appear a ‘Reputation’ tab in the admin sidebar. Click it and you will see a page with a button that takes you to the eRated widget configuration center.
 3. Log in to eRated either with your existing eRated account, or a new one if you don’t already have an account.
 4. After signing in, there is a wizard that will walk you through the steps to build your widget.
