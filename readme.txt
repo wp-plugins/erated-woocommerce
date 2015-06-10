@@ -11,11 +11,11 @@ eRated imports your social information and existing reputation from marketplaces
 
 == Description ==
 
-Get trusted quickly and get selling.  eRated gives sellers a tool to easily import and combine their reputation from every marketplace they use (i.e. eBay, Amazon, AirBnB, etc.) creating one, universal, enhanced score. By doing so, trusted eRated users accelerate their sales an average of 30%.
+#### Get trusted quickly and get selling.  eRated gives sellers a tool to easily import and combine their reputation from every marketplace they use (i.e. eBay, Amazon, AirBnB, etc.) creating one, universal, enhanced score. By doing so, trusted eRated users accelerate their sales an average of 30%.
 
-Now eRated.co adds power features only available to wordpress.com users including customization, analytics and more.
+#### Now eRated.co adds power features only available to wordpress.com users including customization, analytics and more.
 
-Features include:
+#### Features include:
 * Customization. Make your WordPress store uniquely yours with Custom CSS, Colors, Positions, page controls and more.
 * Mobile friendly. You reputation widget is totally responsive to your mobile store. Some say it looks even better than on the web.
 * Analytics. See how your users react to your enhanced reputation and how much time potential buyers spend assessing your trustworthiness.
