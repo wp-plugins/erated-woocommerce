@@ -39,6 +39,18 @@ Now eRated.co adds power features only available to wordpress.com users includin
 4. After signing in, there is a wizard that will walk you through the steps to build your widget.
 5. Once you are done, push the ‘Publish’ button and you’re ready to go. You’re eRated widget will be shown on your website displaying your reputation from around the web.
 
+== Screenshots ==
+
+1. After activating the plugin there will appear a 'Reputation' tab in the admin sidebar. Clicking it will take you to a screen with alink to the eRated sign in screen in a new tab.
+2. There you can either log in with your existing eRated account, or create a new user using one of the social network logins.
+3. After logging in or being logged into eRated and clicking the reputation tab link, you will see our pricing page in which you can choose to start the free trial.
+4. This screen will show a video and some guiidelines of the steps necessary to complete the wordpress plugin integration with the eRated widget.
+5. This is the page to connect all the online platforms that you are involved in. This allows eRated to collect your reputation from these marketplaces to later be able to show on the widget, that will be embedded on your wordpress site.
+6. Here is where the user chooses to display the different information presented on the widget. You can adjust your name and location as well as selecting which marketplaces to show out of the ones you connected before (in the previous tab).
+7. Here you can adjust the colors of the widget and decide what it will look like to fit your site perfectly. You can also enter a list of urls that you would like the widget to not be presented on.
+8. When all of the widget configuring is done, you can publish your widget, which will take it online for your site viewers to admire.
+9. This is what the viewers will finally see on your site/store, once the widget is published.
+
 == Frequently Asked Questions ==
 
 = Which eCommerce platforms are supported? =
@@ -66,16 +78,3 @@ adjust it to your store.
 = Can it really increase my sales? =
 
 eRated has proven for thousands of sellers that an enhanced reputation attracts buyers. In most cases, we’ve seen a more than 30% increase in sales.  Let’s hope it’s more for you!
-
-
-== Screenshots ==
-
-1. After activating the plugin there will appear a 'Reputation' tab in the admin sidebar. Clicking it will take you to a screen with alink to the eRated sign in screen in a new tab.
-2. There you can either log in with your existing eRated account, or create a new user using one of the social network logins.
-3. After logging in or being logged into eRated and clicking the reputation tab link, you will see our pricing page in which you can choose to start the free trial.
-4. This screen will show a video and some guiidelines of the steps necessary to complete the wordpress plugin integration with the eRated widget.
-5. This is the page to connect all the online platforms that you are involved in. This allows eRated to collect your reputation from these marketplaces to later be able to show on the widget, that will be embedded on your wordpress site.
-6. Here is where the user chooses to display the different information presented on the widget. You can adjust your name and location as well as selecting which marketplaces to show out of the ones you connected before (in the previous tab).
-7. Here you can adjust the colors of the widget and decide what it will look like to fit your site perfectly. You can also enter a list of urls that you would like the widget to not be presented on.
-8. When all of the widget configuring is done, you can publish your widget, which will take it online for your site viewers to admire.
-9. This is what the viewers will finally see on your site/store, once the widget is published.
