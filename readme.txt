@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: dkerated
+Contributors: eRated
 Tags: eRated, reputation, rating, reviews, own your reputation, store, ecommerce, ebay, score, amazon, shared economy
 Requires at least: 2.0
 Tested up to: 4.2.2
@@ -11,9 +11,9 @@ eRated imports your social information and existing reputation from marketplaces
 
 == Description ==
 
-#### Get trusted quickly and get selling.  eRated gives sellers a tool to easily import and combine their reputation from every marketplace they use (i.e. eBay, Amazon, AirBnB, etc.) creating one, universal, enhanced score. By doing so, trusted eRated users accelerate their sales an average of 30%.
+Get trusted quickly and get selling.  eRated gives sellers a tool to easily import and combine their reputation from every marketplace they use (i.e. eBay, Amazon, AirBnB, etc.) creating one, universal, enhanced score. By doing so, trusted eRated users accelerate their sales an average of 30%.
 
-#### Now eRated.co adds power features only available to wordpress.com users including customization, analytics and more.
+Now eRated.co adds power features only available to wordpress.com users including customization, analytics and more.
 
 #### Features include:
 * Customization. Make your WordPress store uniquely yours with Custom CSS, Colors, Positions, page controls and more.
@@ -22,7 +22,7 @@ eRated imports your social information and existing reputation from marketplaces
 * Languages. eRated supports more than 12 languages such as Spanish, Mandarin, French, Swedish and more.
 * SEO. eRated helps you get your site SEO friendly.
 
-Our users love:
+#### Our users love:
 * Simple, easy to use. You get your reputation back in 30 seconds.
 * Increase sales more than 30% - simply because buyers will trust you more than your competitors.
 * Customize everything simply.
@@ -70,12 +70,12 @@ eRated has proven for thousands of sellers that an enhanced reputation attracts 
 
 == Screenshots ==
 
-1. This screen shot description corresponds to screenshot_1_reputation_admin_tab.png. After activating the plugin there will appear a 'Reputation' tab in the admin sidebar. Clicking it will take you to a screen with alink to the eRated sign in screen in a new tab.
-2. This screen shot description corresponds to screenshot_2_sign_in.png. There you can either log in with your existing eRated account, or create a new user using one of the social network logins.
-3. This screen shot description corresponds to screenshot_3_pricing.png. After logging in or being logged into eRated and clicking the reputation tab link, you will see our pricing page in which you can choose to start the free trial.
-4. This screen shot description corresponds to screenshot_4_start_wizard.png. This screen will show a video and some guiidelines of the steps necessary to complete the wordpress plugin integration with the eRated widget.
-5. This screen shot description corresponds to screenshot_5_connect_platforms.png. This is the page to connect all the online platforms that you are involved in. This allows eRated to collect your reputation from these marketplaces to later be able to show on the widget, that will be embedded on your wordpress site.
-6. This screen shot description corresponds to screenshot_6_widget_settings.png. Here is where the user chooses to display the different information presented on the widget. You can adjust your name and location as well as selecting which marketplaces to show out of the ones you connected before (in the previous tab).
-7. This screen shot description corresponds to screenshot_7_customize_widget.png. Here you can adjust the colors of the widget and decide what it will look like to fit your site perfectly. You can also enter a list of urls that you would like the widget to not be presented on.
-8. This screen shot description corresponds to screenshot_8_publish_widget.png. When all of the widget configuring is done, you can publish your widget, which will take it online for your site viewers to admire.
-9. This screen shot description corresponds to screenshot_9_site_view.png. This is what the viewers will finally see on your site/store, once the widget is published.
+1. After activating the plugin there will appear a 'Reputation' tab in the admin sidebar. Clicking it will take you to a screen with alink to the eRated sign in screen in a new tab.
+2. There you can either log in with your existing eRated account, or create a new user using one of the social network logins.
+3. After logging in or being logged into eRated and clicking the reputation tab link, you will see our pricing page in which you can choose to start the free trial.
+4. This screen will show a video and some guiidelines of the steps necessary to complete the wordpress plugin integration with the eRated widget.
+5. This is the page to connect all the online platforms that you are involved in. This allows eRated to collect your reputation from these marketplaces to later be able to show on the widget, that will be embedded on your wordpress site.
+6. Here is where the user chooses to display the different information presented on the widget. You can adjust your name and location as well as selecting which marketplaces to show out of the ones you connected before (in the previous tab).
+7. Here you can adjust the colors of the widget and decide what it will look like to fit your site perfectly. You can also enter a list of urls that you would like the widget to not be presented on.
+8. When all of the widget configuring is done, you can publish your widget, which will take it online for your site viewers to admire.
+9. This is what the viewers will finally see on your site/store, once the widget is published.
