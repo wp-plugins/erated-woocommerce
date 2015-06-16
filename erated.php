@@ -48,10 +48,10 @@ function erated_admin_page_function() {
     </style>
     <script type="text/javascript">
       function hover(element) {
-        element.setAttribute('src', '<?php echo plugin_dir_url(__FILE__) . 'images/btn.png';?>');
+        element.setAttribute('src', '<?php echo plugin_dir_url(__FILE__) . 'images/btnpress.png';?>');
       }
       function unhover(element) {
-        element.setAttribute('src', '<?php echo plugin_dir_url(__FILE__) . 'images/btnpress.png';?>');
+        element.setAttribute('src', '<?php echo plugin_dir_url(__FILE__) . 'images/btn.png';?>');
       }
     </script>
     <img id="erated-bg" src="<?php echo plugin_dir_url(__FILE__) . 'images/bg.jpg';?>">
@@ -63,7 +63,7 @@ function erated_admin_page_function() {
       Become a trusted seller and join eRated for free today.
     </div>
     <div class="button_wrapper">
-      <a href="<?php echo $iframe_url ?>" target="_blank"><button id="settings_button" type="submit"><img id="settings_button_image" src="<?php echo plugin_dir_url(__FILE__) . 'images/btnpress.png';?>" onmouseover="hover(this);" onmouseout="unhover(this);"></button></a>
+      <a href="<?php echo $iframe_url ?>" target="_blank"><button id="settings_button" type="submit"><img id="settings_button_image" src="<?php echo plugin_dir_url(__FILE__) . 'images/btn.png';?>" onmouseover="hover(this);" onmouseout="unhover(this);"></button></a>
     </div>
     <br/>
       <a href="<?php echo $iframe_url ?>" target="_blank">Go to eRated configuration screen.</a>
