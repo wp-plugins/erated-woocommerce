@@ -32,6 +32,7 @@ function erated_admin_page_function() {
       background: transparent;
       border: none !important;
       font-size:0;
+      cursor: pointer;
     }
     .button_wrapper{
       display: table;
@@ -45,6 +46,19 @@ function erated_admin_page_function() {
       top: 20%;
       text-align: center;
     }
+    #erated_text_div h1{
+      letter-spacing: -2px;
+      font-weight: 100;
+      font-size: 39px;
+    }
+    #erated_text_div p{
+      display: inline-block;
+      letter-spacing: -1px;
+      font-weight: 100;
+      line-height: 14px;
+      text-align: left;
+      font-size: 20.5px;
+    }
     </style>
     <script type="text/javascript">
       function hover(element) {
@@ -56,11 +70,13 @@ function erated_admin_page_function() {
     </script>
     <img id="erated-bg" src="<?php echo plugin_dir_url(__FILE__) . 'images/bg.jpg';?>">
     <div id="erated_text_div">
-      <h1>Unlock your reputation and build trust with every transaction.</h1><br/><br/>
-      eRated imports your ratings, reviews and reputation from all your<br/><br/>
-      marketplace accounts and social media platforms directly to your store.<br/><br/>
-      Customize your plugin to suit your store and watch your sales increase by up to 30%.<br/><br/>
-      Become a trusted seller and join eRated for free today.
+      <h1>Reach the stars & own your reputation today</h1>
+      <p>
+          eRated imports your ratings, reviews and reputation from all your<br/><br/>
+          marketplace accounts and social media platforms directly to your store.<br/><br/>
+          Customize your plugin to suit your store and watch your sales increase by up to 30%.<br/><br/>
+          Become a trusted seller and join eRated for free today.
+      </p>
     </div>
     <div class="button_wrapper">
       <a href="<?php echo $iframe_url ?>" target="_blank"><button id="settings_button" type="submit"><img id="settings_button_image" src="<?php echo plugin_dir_url(__FILE__) . 'images/btn.png';?>" onmouseover="hover(this);" onmouseout="unhover(this);"></button></a>
