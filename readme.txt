@@ -1,5 +1,6 @@
 === eRated ===
 Contributors: eRated
+Version: 1.0.0
 Tags: eRated, reputation, rating, reviews, own your reputation, store, ecommerce, ebay, score, amazon, shared economy
 Requires at least: 2.0
 Tested up to: 4.2.2
