@@ -2,6 +2,7 @@
 
 /*
 Plugin Name: eRated
+Version: 1.0.0
 */
 
 function add_erated_menu() {
