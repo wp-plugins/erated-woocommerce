@@ -3,6 +3,7 @@
 /*
 Plugin Name: eRated
 Version: 1.0.0
+Description: eRated imports your social information and existing reputation from marketplaces like eBay and Amazon within your store to increase your sales!
 */
 
 function add_erated_menu() {
